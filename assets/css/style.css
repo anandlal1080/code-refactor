@@ -149,13 +149,7 @@ p {
     max-height: 200px;
 }
 
-.paragraph-formatting img {
-    max-height: 200px;
-}
-
-.paragraph-formatting img {
-    max-height: 200px;
-}
+/*Removed additional formatting classes for the paragraph images */
 
 .paragraph-formatting h2 {
     margin-bottom: 20px;

@@ -132,7 +132,7 @@ p {
 
 /*Removed additional formatting classes for paragraph h2*/
 
-.footer {
+/*.footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -141,4 +141,5 @@ p {
 
 .footer h2 {
     font-size: 20px;
-}
+}*/
+/*Made this inactive as it was not on the readme screenshot. If needed, uncomment and use*/

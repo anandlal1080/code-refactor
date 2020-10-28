@@ -156,15 +156,7 @@ p {
     font-size: 36px;
 }
 
-.paragraph-formatting h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.paragraph-formatting h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/*Removed additional formatting classes for paragraph h2*/
 
 .footer {
     padding: 30px;
